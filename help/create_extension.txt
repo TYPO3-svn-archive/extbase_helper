@@ -1,0 +1,15 @@
+===============================================================
+  EXT:extbase_helper - help - create extension
+===============================================================
+
+  create basic extension folders and files:
+  
+    ./extbase_helper.php create extension <EXTKEY> <TITLE> <AUTHORNAME> <AUTHOREMAIL>
+    
+  <EXTKEY>       = extension key
+  <TITLE>        = title of extension, use quotes!
+  <AUTHORNAME>   = name of the author, your name, use quotes!
+  <AUTHOREMAIL>  = email of the author, your email, use quotes!
+      
+===============================================================
+

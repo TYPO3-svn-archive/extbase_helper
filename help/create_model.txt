@@ -1,0 +1,12 @@
+===============================================================
+  EXT:extbase_helper - help - create model
+===============================================================
+
+  create new domain model:
+  
+    ./extbase_helper.php create model <MODEL>
+    
+  <MODEL>        = the name of the model
+      
+===============================================================
+

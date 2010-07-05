@@ -1,0 +1,22 @@
+===============================================================
+  EXT:extbase_helper - help - create
+===============================================================
+
+  create basic extension folders and files:
+  
+    ./extbase_helper.php create extension
+  
+  create new domain model
+  
+    ./extbase_helper.php create model
+    
+  create new domain controller
+  
+    ./extbase_helper.php create controller
+    
+  create new domain model repository
+  
+    ./extbase_helper.php create repository
+    
+===============================================================
+
